@@ -1,0 +1,30 @@
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.exe
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.deps.json
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.runtimeconfig.json
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.dll
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.pdb
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.csproj.AssemblyReference.cache
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.AssemblyInfoInputs.cache
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.AssemblyInfo.cs
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.csproj.CoreCompileInputs.cache
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.dll
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\refint\Firm.dll
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.pdb
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.genruntimeconfig.cache
+C:\Users\liliy\source\repos\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\ref\Firm.dll
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.exe
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.deps.json
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.runtimeconfig.json
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.dll
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\bin\Debug\net6.0\Firm.pdb
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.dll
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\refint\Firm.dll
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.pdb
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\Firm.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\Firm\obj\Debug\net6.0\ref\Firm.dll

@@ -1,0 +1,15 @@
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\bin\Debug\net6.0\RegistrationDocument.exe
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\bin\Debug\net6.0\RegistrationDocument.deps.json
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\bin\Debug\net6.0\RegistrationDocument.runtimeconfig.json
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\bin\Debug\net6.0\RegistrationDocument.dll
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\bin\Debug\net6.0\RegistrationDocument.pdb
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\RegistrationDocument.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\RegistrationDocument.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\RegistrationDocument.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\RegistrationDocument.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\RegistrationDocument.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\RegistrationDocument.dll
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\refint\RegistrationDocument.dll
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\RegistrationDocument.pdb
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\RegistrationDocument.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projects\Lab7_LiliyaBukhtik\RegistrationDocument\obj\Debug\net6.0\ref\RegistrationDocument.dll
